@@ -1,0 +1,8 @@
+
+# EMS
+.env
+logs/
+include/data/
+include/warehouse/
+dbt/target/
+dbt/dbt_packages/
